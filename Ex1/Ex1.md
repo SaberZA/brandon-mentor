@@ -6,4 +6,4 @@
 3.  When inserting the string, the Tree should remain in a sorted state (Lexicographically ascending)
 
 
-[logo]: ./Ex1/tree.png
+[logo]: https://github.com/SaberZA/brandon-mentor/blob/master/Ex1/tree.png
